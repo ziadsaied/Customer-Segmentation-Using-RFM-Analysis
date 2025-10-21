@@ -33,6 +33,6 @@ Concepts: Feature Engineering, RFM Scoring, Customer Analytics, Data Visualizati
 
 👤 Author
 Ziad Saied
-📧 Email: ziyadsaed5@gmail.com
-🔗 LinkedIn: linkedin.com/in/ziad-saiieed
-💻 GitHub: github.com/ziadsaied
+- 📧 Email: ziyadsaed5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ziad-saiieed
+- 💻 GitHub: github.com/ziadsaied
